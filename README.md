@@ -26,6 +26,7 @@ Features
 Clone the repository:
   
    git clone https://github.com/Madhavppp/Swigg-Kat-Pay
+   Main method is available in Main.java file and class name is also Main 
 
 
 
